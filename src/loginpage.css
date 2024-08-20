@@ -1,0 +1,22 @@
+.submit-btn {
+  width: 150px;
+  padding: 10px;
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+  background-color: blue;
+  color: white;
+  border-radius: 10px;
+  border: none;
+}
+.loginform {
+  background-color: aqua;
+  max-width: 100%;
+  padding: 50px 100px;
+}
+.form-control {
+  max-width: 350px;
+  display: block;
+  margin: auto;
+ 
+}
